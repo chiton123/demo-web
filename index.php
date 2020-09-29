@@ -1,1 +1,1 @@
-<?php require("demo.html") ?>
+<?php require("index.html") ?>
